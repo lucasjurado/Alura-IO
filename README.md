@@ -1,6 +1,6 @@
 ## [Alura](https://www.alura.com.br/)
 
-   - Criação de Arquivos picle e Json.
+   - Criação de arquivos pickle e Json.
 
 1. **Python:** [Trabalhando com I/O](https://cursos.alura.com.br/course/python-3-trabalhando-com-io)
     
